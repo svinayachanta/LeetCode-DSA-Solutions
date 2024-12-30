@@ -3,7 +3,7 @@
 Welcome to my **LeetCode Solutions** repository! This project serves as a collection of all my solved problems from LeetCode, organized by:
 
 - **Big O Complexity Analysis** (Time and Space)
-- **Brute Force Solutions** (where applicable)
+- **Brute Force Solutions**
 - **Optimal Solutions**
 
 Each problem is carefully documented to showcase the thought process, different approaches, and the trade-offs between brute force and optimized solutions.
